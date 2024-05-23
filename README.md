@@ -1,8 +1,9 @@
-# ETL_Data_Pipeline_with_Python
+# Data Cleaning and Automation with Python
 Using Python as a pipe to load data into data storage systems.
-<img width="896" alt="etl_pipeline" src="https://github.com/Ackson507/ETL_Data_Pipeline_with_Python/assets/84422970/14db2bc0-291b-4348-9450-98e2ce94df4c">
+![make-a-python-script](https://github.com/Ackson507/ETL_Data_Pipeline_with_Python/assets/84422970/a2a5add2-a0b0-4aeb-a737-fdb8b2a8c360)
 
-# Buiding a Data Pipeline from file to Database
+
+# Buiding a simple automation data pipeline from CSV file to Database
 In the ETL_Automation-with-Python repository. We were doing two tasks
 - Task 1: Data cleaning, trasformation and manipulaton
 - Task 2: Wrting a script to automate the Task 1 and defining new funtion with Task 1 steps so that whenever we give this funtion new dataset it automatical cleans it and creates a new dataset appended with last name '_cleand.csv'
